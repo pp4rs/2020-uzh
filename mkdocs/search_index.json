@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/",
-            "text": "Willkommen!\n\n\nWelcome to the course website for Programming Practices for Research in Economics at the University of Zurich in Fall 2017.\n\n\nImportant Information\n\n\nA course syllabus is now available \nhere\n.\nWe don't anticipate to deviate from the \nSchedule\n too much - follow the \nAnnouncements\n page for updates.\n\n\n\n\nSummary\n\n\n\n\nDates: Daily from August 28th until September 15th (excluding weekends)\n\n\nMorning Session: 9.30 - 12.30\n\n\nAfternoon Session: 14.00 - 17.00\n\n\nLocation: See \nSchedule\n\n\nContact: programming@econ.uzh.ch\n\n\n\n\n\n\nSoftware Installation Guide\n\n\nYou will need to install the necessary software on to your laptop to bring to the class each day so you can code along with us.\nThe 2017 installation guide is available \nhere\n.\n\n\n\n\nTip\n\n\nPlease try and install all the software before the course begins.\nIf you are struggling we are able to help - but we expect you have tried to work through the guide yourself.\n\n\n\n\nWhen: Friday, August 25th, 9.30am - 12.30am\n\n\nWhere: SOF-E-09\n\n\n\n\n\n\nSlack Chat \n\n\nThroughout the course we will post useful tidbits of information, and answer questions that are slightly off topic in a web-chat environment called Slack.\n\n\nClick \nhere\n, or on the icon above, to be redirected to the Slack login page for our course.",
+            "text": "Willkommen!\n\n\nWelcome to the course website for Programming Practices for Research in Economics at the University of Zurich in Fall 2017.\n\n\nImportant Information\n\n\nA course syllabus is now available \nhere\n.\nWe don't anticipate to deviate from the \nSchedule\n too much - follow the \nAnnouncements\n page for updates.\n\n\n\n\nSummary\n\n\n\n\nDates: Daily from August 28th until September 15th (excluding weekends)\n\n\nMorning Session: 9.30 - 12.30\n\n\nAfternoon Session: 14.00 - 17.00\n\n\nLocation: See \nSchedule\n\n\nContact: programming@econ.uzh.ch\n\n\n\n\n\n\nPre-Course Survey\n\n\nPlease fill out the pre-course survey before the course begins. You can find it \nhere\n.\n\n\nSoftware Installation Guide\n\n\nYou will need to install the necessary software on to your laptop to bring to the class each day so you can code along with us.\nThe 2017 installation guide is available \nhere\n.\n\n\n\n\nTip\n\n\nPlease try and install all the software before the course begins.\nIf you are struggling we are able to help - but we expect you have tried to work through the guide yourself.\n\n\n\n\nWhen: Friday, August 25th, 9.30am - 12.30am\n\n\nWhere: SOF-E-09\n\n\n\n\n\n\nSlack Chat \n\n\nThroughout the course we will post useful tidbits of information, and answer questions that are slightly off topic in a web-chat environment called Slack.\n\n\nClick \nhere\n, or on the icon above, to be redirected to the Slack login page for our course.",
             "title": "Course Home Page"
         },
         {
@@ -14,6 +14,11 @@
             "location": "/#important-information",
             "text": "A course syllabus is now available  here .\nWe don't anticipate to deviate from the  Schedule  too much - follow the  Announcements  page for updates.   Summary   Dates: Daily from August 28th until September 15th (excluding weekends)  Morning Session: 9.30 - 12.30  Afternoon Session: 14.00 - 17.00  Location: See  Schedule  Contact: programming@econ.uzh.ch",
             "title": "Important Information"
+        },
+        {
+            "location": "/#pre-course-survey",
+            "text": "Please fill out the pre-course survey before the course begins. You can find it  here .",
+            "title": "Pre-Course Survey"
         },
         {
             "location": "/#software-installation-guide",
