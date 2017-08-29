@@ -67,7 +67,7 @@
         },
         {
             "location": "/material/",
-            "text": "Course Material\n\n\nGitHub repository\n\n\nAll our materials are located in a GitHub repository, located \nhere\n.\n\n\nAsciinema Files\n\n\nLachlan has put together some (relatively) short videos that review some information from the sessions:\n\n\n\n\nReview of Terminal Commands - Part 1\n\n\nReview of Terminal Commands - Part 2\n\n\nForking a Github Repository and maintaining an upstream connection",
+            "text": "Course Material\n\n\nGitHub repository\n\n\nAll our materials are located in a GitHub repository, located \nhere\n.\n\n\nAsciinema Files\n\n\nLachlan has put together some (relatively) short videos that review some information from the sessions:\n\n\n\n\nReview of Terminal Commands - Part 1\n\n\nReview of Terminal Commands - Part 2\n - warning this is \nquite long\n\n\nForking a Github Repository and maintaining an upstream connection",
             "title": "Course Material"
         },
         {
@@ -82,7 +82,7 @@
         },
         {
             "location": "/material/#asciinema-files",
-            "text": "Lachlan has put together some (relatively) short videos that review some information from the sessions:   Review of Terminal Commands - Part 1  Review of Terminal Commands - Part 2  Forking a Github Repository and maintaining an upstream connection",
+            "text": "Lachlan has put together some (relatively) short videos that review some information from the sessions:   Review of Terminal Commands - Part 1  Review of Terminal Commands - Part 2  - warning this is  quite long  Forking a Github Repository and maintaining an upstream connection",
             "title": "Asciinema Files"
         },
         {
